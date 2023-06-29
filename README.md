@@ -2,7 +2,7 @@
 
 ## Project Description
 
-The Cake Recipes App is a web application that allows users to browse a list of cakes and retrieve their recipes using a token-based REST API. This application provides a user-friendly interface to explore different cake options and access detailed recipes along with cake photos.
+The Cake Recipes App is a desktop application that allows users to browse a list of cakes and retrieve their recipes using a token-based REST API. This application provides a user-friendly interface to explore different cake options and access detailed recipes along with cake photos.
 
 ![Concept graphic of the app](CakeRecipesApp/screenshot/gui.png)
 *Graphical User Interface of the app*
